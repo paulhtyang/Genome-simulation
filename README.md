@@ -1,2 +1,3 @@
 # Genome-simulation
-Establish the golden standard for NGS data analytics
+Establish the golden standards for NGS data analytics
+Software tools are required
